@@ -1,4 +1,4 @@
-###### CS-324-2: Introduction to the Design of Algorithms <br> Spring 2021 <br> Northeastern Illinois University <br> Homework #1B <br> Suggested Due Date: 01/20/21 <br> Due Date: 02/10/21 at 9:00 p.m. (CT) <br> Algorithms and Efficiency
+###### CS-324-2: Introduction to the Design of Algorithms <br> Spring 2021 <br> Northeastern Illinois University <br> Homework #1B <br> Due Date: 01/20/21 <br> Algorithms and Efficiency
 
 **Getting Started**
 
