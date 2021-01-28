@@ -12,10 +12,11 @@
 **Submitting your assignment**
 
 **1.** Once you have completed all the problems, commit your final code to GitHub. <br>
-- Please also commit code after each step of each problem and remember to run the unit tests (where applicable) and code analyzers before you commit.
-
-**2.** Then in IntelliJ, go to File, select Export to Zip File. This will a create a zip file of the entire project directory.<br>
-**3.** Submit the .zip file to the Homework 1B Assignment folder on D2L.<br>
+- Please also commit code after each step of each problem and remember to run the unit tests 
+  (where applicable) and code analyzers before you commit.<br>
+  
+**2.** Direct Message Sebin Puthenthara Suresh on Slack and let him know that your code is ready to be graded - 
+  he will coordinate with me.<br>
 
 **Coding Rules**
 
