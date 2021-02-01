@@ -23,4 +23,10 @@ public class TestAddDiagonals {
         int[][] mat = {{5}};
 //        assertEquals(5, Problem1.addDiagonals(mat));
     }
+
+    @Test
+    void shouldFindSumForLargerOddMatrix() {
+        int[][] mat = {{1, 1, 1, 1,1}, {2,2,2,2,2}, {3,3,3,3,3}, {4,4,4,4,4}, {5,5,5,5,5}};
+//        assertEquals(27, Problem1.addDiagonals(mat));
+    }
 }

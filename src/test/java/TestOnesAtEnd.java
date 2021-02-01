@@ -38,4 +38,36 @@ public class TestOnesAtEnd {
 //        Problem2.onesAtEnd(nums);
 //        assertArrayEquals(expNums, nums);
     }
+
+    @Test
+    void shouldMoveOnesToEndCaseFive() {
+        int[] nums = {0, 1, 1, 1, 4, -2, 1};
+        int[] expNums = {0, 4, -2, 1, 1, 1, 1};
+//        Problem2.onesAtEnd(nums);
+//        assertArrayEquals(expNums, nums);
+    }
+
+    @Test
+    void shouldMoveOnesToEndCaseSix() {
+        int[] nums = {1, 1, 4, 1, -10, 2, 1};
+        int[] expNums = {4, -10, 2, 1, 1, 1, 1};
+//        Problem2.onesAtEnd(nums);
+//        assertArrayEquals(expNums, nums);
+    }
+
+    @Test
+    void shouldMoveOnesToEndCaseSeven() {
+        int[] nums = {1, 1, 1, 4};
+        int[] expNums = {4, 1, 1, 1};
+//        Problem2.onesAtEnd(nums);
+//        assertArrayEquals(expNums, nums);
+    }
+
+    @Test
+    void shouldMoveOnesToEndCaseEight() {
+        int[] nums = {1, 1, 1, 2, 4, 1};
+        int[] expNums = {2, 4, 1, 1, 1, 1};
+//        Problem2.onesAtEnd(nums);
+//        assertArrayEquals(expNums, nums);
+    }
 }

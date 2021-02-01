@@ -48,4 +48,10 @@ public class TestSearch2DArray {
         int[][] nums = {{1,3,5,7},{10,11,16,20}, {23,30,34,60}, {71, 80, 92, 93}, {100, 105, 200, 303}};
 //        assertFalse(Problem3.search2DArray(nums, 81));
     }
+
+    @Test
+    void shouldTestSearchCase8() {
+        int[][] nums = {{1,3,5,7},{10,11,16,20}, {23,30,34,60}};
+//        assertTrue(Problem3.search2DArray(nums, 7));
+    }
 }
